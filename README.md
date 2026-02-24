@@ -64,3 +64,9 @@ This project is licensed under [MIT License](LICENSE). You are free to use, and 
 ***
 
 ### ⭐About me
+Hi, my name is Lee YanHeng, got a bachelors degree in information resource management, looking for job opportunities as a data analyst.
+These are my contact information:
+
+WhatsApp: +60102882408
+
+[<img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">](linkedin.com/in/yanheng01)
