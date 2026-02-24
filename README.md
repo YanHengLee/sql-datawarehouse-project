@@ -64,8 +64,8 @@ This project is licensed under [MIT License](LICENSE). You are free to use, and 
 ***
 
 ### ⭐About me
-Hi, my name is Lee YanHeng, got a bachelors degree in information resource management, looking for job opportunities as a data analyst.
-These are my contact information:
+Hi, my name is Lee YanHeng, recently graduated from Zhejiang University, got a bachelors degree in information resource management, 
+and currently looking for job opportunities as a data analyst. Feel free to reach out to me using these contact info:
 
 WhatsApp: +60102882408
 
